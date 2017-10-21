@@ -1,4 +1,4 @@
-puts "giMultiplikationstafel"
+puts "Multiplikationstafel"
 a = 0
 (1..10).each do |i|
     (1..10).each do |j|
